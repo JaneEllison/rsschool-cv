@@ -10,7 +10,7 @@
 
 **About me:** I want to become a frontend developer by learning the basics of programming at RS School
 
-**Skills:** HTML, CSS, JS
+**Skills:** HTML, CSS, JS, Photoshop, Figma
 
 **Education:** School of Business and Management of Technology of BSU
 

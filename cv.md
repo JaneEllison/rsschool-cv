@@ -5,6 +5,7 @@
 * asekerich99@gmail.com
 * [Telegram](https://t.me/j_ell)
 * [Instagram](https://www.instagram.com/j.ellison_/)
+* [GitHub](https://github.com/JaneEllison)
 
 **Current location**: Belarus, Minsk
 
